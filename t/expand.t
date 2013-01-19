@@ -5,7 +5,6 @@ use WWW::Expand;
 my @shorteners = (
     GitHub  => 'http://git.io/4YRefw'          => 'https://github.com/GlitchMr/WWW-Expand',
     Google  => 'http://goo.gl/m1KGK'           => 'http://glitchmr.github.com/',
-    TinyURL => 'http://tinyurl.com/4ddcha'     => 'http://duckduckgo.com',
     BitLy   => 'http://bit.ly/E4uzk'           => 'http://perl6.org/',
     IsGd    => 'http://is.gd/5CYCZ6'           => 'http://doc.perl6.org/',
     OwLy    => 'http://ow.ly/fI2Jo'            => 'http://rosettacode.org/wiki/Rosetta_Code',

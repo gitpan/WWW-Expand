@@ -1,6 +1,6 @@
 package WWW::Expand;
 {
-  $WWW::Expand::VERSION = '0.1.0';
+  $WWW::Expand::VERSION = '0.1.1';
 }
 use strictures 1;
 use Exporter qw/import/;

@@ -1,10 +1,22 @@
 ==================================================
-Changes from 2011-12-01 00:00:00 +0000 to present.
+Changes from 2012-01-20 00:00:00 +0000 to present.
 ==================================================
 
 ------------------------------------------
-version 0.1.0 at 2012-11-30 14:19:35 +0000
+version 0.1.1 at 2013-01-19 12:37:23 +0000
 ------------------------------------------
+
+  Change: a7d4a87c8f1bb6b0610a77a512ab7cac37ad5883
+  Author: Konrad Borowski <glitchmr@myopera.com>
+  Date : 2013-01-19 13:34:58 +0000
+
+    Release 0.1.1 
+
+  Change: 358095361b842b768ff052ad9f41c1d8553fdfa3
+  Author: Konrad Borowski <glitchmr@myopera.com>
+  Date : 2013-01-19 10:40:49 +0000
+
+    Remove often failing TinyURL test 
 
   Change: 1b3f63dd10bfa59684e0e5470cd3ecee0bbf895f
   Author: GlitchMr <glitchmr@myopera.com>
