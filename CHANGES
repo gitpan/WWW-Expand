@@ -1,10 +1,22 @@
 ==================================================
-Changes from 2012-01-20 00:00:00 +0000 to present.
+Changes from 2012-07-04 00:00:00 +0000 to present.
 ==================================================
 
 ------------------------------------------
-version 0.1.1 at 2013-01-19 12:37:23 +0000
+version 0.1.2 at 2013-07-04 15:26:37 +0000
 ------------------------------------------
+
+  Change: eb67446437622ae736b11dec7c241005d982807f
+  Author: Konrad Borowski <glitchmr@myopera.com>
+  Date : 2013-07-04 17:26:22 +0000
+
+    Release 0.1.2 
+
+  Change: 51ec6891bb6efa9c6013958e04fef4ebe1620e35
+  Author: Konrad Borowski <glitchmr@myopera.com>
+  Date : 2013-07-04 17:10:45 +0000
+
+    Remove some useless modules from dist.ini 
 
   Change: a7d4a87c8f1bb6b0610a77a512ab7cac37ad5883
   Author: Konrad Borowski <glitchmr@myopera.com>

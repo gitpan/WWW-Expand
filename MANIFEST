@@ -7,6 +7,5 @@ README
 dist.ini
 lib/WWW/Expand.pm
 t/expand.t
-t/release-eol.t
 t/release-pod-coverage.t
 t/release-pod-syntax.t
