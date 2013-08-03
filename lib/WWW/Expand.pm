@@ -1,6 +1,6 @@
 package WWW::Expand;
 {
-  $WWW::Expand::VERSION = '0.1.2';
+  $WWW::Expand::VERSION = '0.1.3';
 }
 use strictures 1;
 use Exporter qw/import/;
@@ -12,7 +12,7 @@ use Carp ();
 our $VERSION ||= 'DEV';
 
 our @EXPORT = our @EXPORT_OK = qw/expand/;
-our $DEFAULT_USERAGENT = "URL::Expand/$VERSION, https://metacpan.org/module/App::Reg";
+our $DEFAULT_USERAGENT = "URL::Expand/$VERSION (https://metacpan.org/module/URL::Expand)";
 
 sub expand {
     my ($url, %options) = @_;
