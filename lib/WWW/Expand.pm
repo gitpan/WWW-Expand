@@ -1,6 +1,6 @@
 package WWW::Expand;
 {
-  $WWW::Expand::VERSION = '0.1.3';
+  $WWW::Expand::VERSION = '0.1.4';
 }
 use strictures 1;
 use Exporter qw/import/;
@@ -27,7 +27,7 @@ sub expand {
         $agent = LWP::UserAgent->new(agent => $text_agent);
     }
     
-    $agent->request(HTTP::Request->new(GET => $url))->request->uri;
+    $agent->request(HTTP::Request->new(HEAD => $url))->request->uri;
 }
 1;
 
