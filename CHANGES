@@ -1,10 +1,49 @@
 ==================================================
-Changes from 2012-09-05 00:00:00 +0000 to present.
+Changes from 2013-05-02 00:00:00 +0000 to present.
 ==================================================
 
 ------------------------------------------
-version 0.1.4 at 2013-09-05 13:13:30 +0000
+version 0.1.5 at 2014-05-02 12:17:33 +0000
 ------------------------------------------
+
+  Change: 5fe2c4f6f7761daa3cf829252b10fe8fbcf271ee
+  Author: Konrad Borowski <x.fix@o2.pl>
+  Date : 2014-05-02 14:15:56 +0000
+
+    Release 0.1.5. 
+
+  Change: 6f5c6f6d5443ea694f41d74b7ddc8f2315dd92b0
+  Author: Konrad Borowski <GlitchMr@users.noreply.github.com>
+  Date : 2014-05-02 12:15:05 +0000
+
+    Merge pull request #1 from MartinMcGrath/patch-2
+
+    Target URLs have changed - Update 
+
+  Change: a3baf059228d5e4915c0b521dfb0287a98566b46
+  Author: Martin McGrath <mcgrath.martin@gmail.com>
+  Date : 2014-05-02 11:08:13 +0000
+
+    Target URLs have changed - Update
+
+    Hi, thanks for your work on this module.
+
+    Some of the URLs have changed, I've updated the test to cater for new
+    URLs:
+
+    https://rt.cpan.org/Public/Bug/Display.html?id=95262 
+
+  Change: b470cc8be6064c62415b668f9692b5b671f6df4d
+  Author: Konrad Borowski <GlitchMr@users.noreply.github.com>
+  Date : 2014-01-14 22:04:24 +0000
+
+    Put funky module return value. 
+
+  Change: fdcd317981c434fe113b010355752b56d5337518
+  Author: Konrad Borowski <GlitchMr@users.noreply.github.com>
+  Date : 2014-01-03 21:19:26 +0000
+
+    Update e-mail address. 
 
   Change: 490457e4724337b845f43eea1ac0dbd43374088f
   Author: Konrad Borowski <glitchmr@myopera.com>

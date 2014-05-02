@@ -1,7 +1,5 @@
 package WWW::Expand;
-{
-  $WWW::Expand::VERSION = '0.1.4';
-}
+$WWW::Expand::VERSION = '0.1.5';
 use strictures 1;
 use Exporter qw/import/;
 use LWP::UserAgent;
@@ -29,7 +27,7 @@ sub expand {
     
     $agent->request(HTTP::Request->new(HEAD => $url))->request->uri;
 }
-1;
+"https://github.com/xfix";
 
 =head1 NAME
 
